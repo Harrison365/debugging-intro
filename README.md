@@ -1,12 +1,10 @@
--typo
--undefined variable (return cat //there is no cat)
--reassign a const (count)
--square brackets vs. dot notation
--missing arguement
--incorrect path
--wrong comparison operator
--data type (returns string not num)
--trying to add a string
--object key doesnt exist
--Harrison's Comparisons
--bad logic (wrong if statement stuff)
+Solve Katas 1 - 11
+Each file has atleast one error you must resolve in order to pass the tests. 
+
+Note: The tests should not be changed. 
+
+You can run each file with 
+```js
+node "fileName.js"
+```
+Make sure you have also **cd** into the correct folder.
