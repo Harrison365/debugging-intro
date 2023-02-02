@@ -1,10 +1,5 @@
-Solve Katas 1 - 11
-Each file has atleast one error you must resolve in order to pass the tests. 
+# Debugging Intro
 
-Note: The tests should not be changed. 
+Take a look at the exercises folder. Inside, you will see several files. In each one, Northcoders have written a series of functions. Harrison is a fool and has made many mistakes. Please fix them so that, when you run the file with `node <file name>.js`, all the tests pass.
 
-You can run each file with 
-```js
-node "fileName.js"
-```
-Make sure you have also **cd** into the correct folder.
+P.S. Please don't make any alterations to the tests && Make sure you have also **cd** into the correct folder before running the file.
