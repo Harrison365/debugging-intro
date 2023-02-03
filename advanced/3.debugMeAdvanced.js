@@ -11,7 +11,7 @@ function capitalArtists(arr) {
 runTest("Returns an array of capitalised music artists ", function () {
   check(capitalArtists([])).isEqualTo([]);
 });
-runTest("Returns an array of capitalised music artists ", function () {
+runTest("Returns an array of 1 capitalised music artist", function () {
   check(capitalArtists(["Cher - Believe"])).isEqualTo(["CHER"]);
 });
 runTest("Returns an array of capitalised music artists ", function () {
